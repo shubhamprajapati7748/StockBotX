@@ -4,7 +4,17 @@
 
 StockBotX is an intelligent chatbot designed to provide insightful answers to your stock-related queries. It offers a user-friendly interface for market trends, stock performance, and financial insights.
 
-![stockbotX](stockbotX.png)
+## Screenshot
+
+![StockBotX](stockbotX.png)
+
+## Demo
+
+You can view the demo of StockBotX [here](https://vimeo.com/1042608166)
+
+## Social Media
+
+You can check out more about the project on LinkedIn: [StockBotX LinkedIn Post](https://www.linkedin.com/posts/shubhamprajapati7748_ai-stockbotx-agenticai-activity-7278757239966867456-pVSh/)
 
 ## Table of Contents
 
